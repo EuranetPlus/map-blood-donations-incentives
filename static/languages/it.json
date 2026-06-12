@@ -5,6 +5,8 @@
   "textSourceDescription": "Fonte",
   "textSource": "Centro comune di ricerca della Commissione europea",
   "linkDataAccessDescription": "Accedere ai dati",
+  "legend1": "Nessun dato disponibile",
+  "tooltipExtraInfoLabel": "clicca qui",
   "extraInfo_BG": "Incentivi monetari: rimborso dei costi diretti sostenuti dal donatore; pagamento in contanti.",
   "extraInfo_HR": "Incentivi monetari: trasporto pubblico sovvenzionato; benefici dell'assicurazione sanitaria.",
   "extraInfo_CZ": "Incentivi monetari: sgravi fiscali; benefici in materia di assicurazione sanitaria.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Incentivi monetari: sgravi fiscali.",
   "extraInfo_RO": "Incentivi monetari: trasporto pubblico sovvenzionato; buoni pasto; rimborso dei costi diretti sostenuti dal donatore.",
   "extraInfo_SK": "Incentivi monetari: buoni pasto.",
-  "extraInfo_SE": "Incentivi monetari: buoni pasto.",
-  "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "extraInfo_SE": "Incentivi monetari: buoni pasto."
 }

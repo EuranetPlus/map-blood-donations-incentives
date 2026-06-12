@@ -5,6 +5,8 @@
   "textSourceDescription": "Zdroj",
   "textSource": "Spoločné výskumné centrum Európskej komisie",
   "linkDataAccessDescription": "Prístup k údajom",
+  "legend1": "Nie sú k dispozícii žiadne údaje",
+  "tooltipExtraInfoLabel": "Kliknite sem",
   "extraInfo_BG": "Peňažné stimuly: kompenzácia priamych nákladov darcu; platba v hotovosti.",
   "extraInfo_HR": "Finančné stimuly: dotovaná verejná doprava; zdravotné poistenie.",
   "extraInfo_CZ": "Peňažné stimuly: daňové úľavy; dávky zdravotného poistenia.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Peňažné stimuly: daňové úľavy.",
   "extraInfo_RO": "Finančné stimuly: dotovaná verejná doprava; potravinové poukážky; kompenzácia priamych nákladov darcu.",
   "extraInfo_SK": "Finančné stimuly: stravné poukážky.",
-  "extraInfo_SE": "Finančné stimuly: stravné poukážky.",
-  "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "extraInfo_SE": "Finančné stimuly: stravné poukážky."
 }

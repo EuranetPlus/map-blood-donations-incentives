@@ -5,6 +5,8 @@
   "textSourceDescription": "Lähde",
   "textSource": "Euroopan komission yhteinen tutkimuskeskus",
   "linkDataAccessDescription": "Käytä tietoja",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
   "extraInfo_BG": "Rahalliset kannustimet: korvaus luovuttajan suorista kustannuksista; käteismaksu.",
   "extraInfo_HR": "Rahalliset kannustimet: tuettu julkinen liikenne; sairausvakuutusetuudet.",
   "extraInfo_CZ": "Rahalliset kannustimet: verovähennykset; sairausvakuutusetuudet.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Rahalliset kannustimet: verovähennykset.",
   "extraInfo_RO": "Rahalliset kannustimet: tuettu julkinen liikenne; ruokasetelit; korvaukset lahjoittajien suorista kustannuksista.",
   "extraInfo_SK": "Rahalliset kannustimet: ruokakupongit.",
-  "extraInfo_SE": "Rahalliset kannustimet: ruokakupongit.",
-  "legend1": "Ei tietoja saatavilla",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "extraInfo_SE": "Rahalliset kannustimet: ruokakupongit."
 }

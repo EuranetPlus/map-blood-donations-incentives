@@ -5,6 +5,8 @@
   "textSourceDescription": "Forrás",
   "textSource": "Európai Bizottság Közös Kutatóközpontja",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltipExtraInfoLabel": "Kattintson ide",
   "extraInfo_BG": "Pénzügyi ösztönzők: a donor közvetlen költségeinek kompenzációja; készpénzes kifizetés.",
   "extraInfo_HR": "Pénzügyi ösztönzők: támogatott tömegközlekedés; egészségbiztosítási juttatások.",
   "extraInfo_CZ": "Pénzügyi ösztönzők: adókedvezmények; egészségbiztosítási juttatások.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Pénzügyi ösztönzők: adókedvezmények.",
   "extraInfo_RO": "Pénzügyi ösztönzők: támogatott tömegközlekedés; élelmiszerutalványok; a donorok közvetlen költségeinek kompenzációja.",
   "extraInfo_SK": "Pénzügyi ösztönzők: élelmiszerutalványok.",
-  "extraInfo_SE": "Pénzügyi ösztönzők: élelmiszerutalványok.",
-  "legend1": "Nincsenek elérhető adatok",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "extraInfo_SE": "Pénzügyi ösztönzők: élelmiszerutalványok."
 }

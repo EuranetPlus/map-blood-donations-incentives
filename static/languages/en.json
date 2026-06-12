@@ -5,6 +5,8 @@
   "textSourceDescription": "Source",
   "textSource": "European Commission Joint Research Center",
   "linkDataAccessDescription": "Access the data",
+  "legend1": "No data available",
+  "tooltipExtraInfoLabel": "Click here",
   "extraInfo_BG": "Monetary incentives: compensation for donor's direct costs; cash payment.",
   "extraInfo_HR": "Monetary incentives: subsidised public transportation; health insurance benefits.",
   "extraInfo_CZ": "Monetary incentives: tax relief; health insurance benefits.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Monetary incentives: tax relief.",
   "extraInfo_RO": "Monetary incentives: subsidised public transportation; food vouchers; compensation for donor's direct costs.",
   "extraInfo_SK": "Monetary incentives: food vouchers.",
-  "extraInfo_SE": "Monetary incentives: food vouchers.",
-  "legend1": "No data available",
-  "tooltipExtraInfoLabel": "Click here"
+  "extraInfo_SE": "Monetary incentives: food vouchers."
 }

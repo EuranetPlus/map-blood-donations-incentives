@@ -5,6 +5,8 @@
   "textSourceDescription": "Źródło",
   "textSource": "Wspólne Centrum Badawcze Komisji Europejskiej",
   "linkDataAccessDescription": "Dostęp do danych",
+  "legend1": "Brak dostępnych danych",
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
   "extraInfo_BG": "Zachęty pieniężne: rekompensata bezpośrednich kosztów poniesionych przez darczyńcę, płatność gotówkowa.",
   "extraInfo_HR": "Zachęty finansowe: dotacje na transport publiczny, świadczenia z ubezpieczenia zdrowotnego.",
   "extraInfo_CZ": "Zachęty finansowe: ulgi podatkowe, świadczenia z tytułu ubezpieczenia zdrowotnego.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Zachęty finansowe: ulgi podatkowe.",
   "extraInfo_RO": "Zachęty finansowe: dotacje na transport publiczny, bony żywnościowe, rekompensata bezpośrednich kosztów poniesionych przez darczyńcę.",
   "extraInfo_SK": "Zachęty finansowe: bony żywnościowe.",
-  "extraInfo_SE": "Zachęty finansowe: bony żywnościowe.",
-  "legend1": "Brak dostępnych danych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "extraInfo_SE": "Zachęty finansowe: bony żywnościowe."
 }

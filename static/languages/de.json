@@ -5,6 +5,8 @@
   "textSourceDescription": "Quelle",
   "textSource": "Gemeinsame Forschungsstelle der Europäischen Kommission",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "legend1": "Keine Daten verfügbar",
+  "tooltipExtraInfoLabel": "klicken Sie hier",
   "extraInfo_BG": "Monetäre Anreize: Entschädigung für die direkten Kosten des Spenders; Barzahlung.",
   "extraInfo_HR": "Monetäre Anreize: subventionierter öffentlicher Nahverkehr; Leistungen der Krankenversicherung.",
   "extraInfo_CZ": "Finanzielle Anreize: Steuererleichterungen; Leistungen der Krankenversicherung.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Monetäre Anreize: Steuererleichterungen.",
   "extraInfo_RO": "Monetäre Anreize: subventionierte öffentliche Verkehrsmittel; Lebensmittelgutscheine; Entschädigung für die direkten Kosten des Spenders.",
   "extraInfo_SK": "Finanzielle Anreize: Lebensmittelgutscheine.",
-  "extraInfo_SE": "Finanzielle Anreize: Lebensmittelgutscheine.",
-  "legend1": "Keine Daten verfügbar",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "extraInfo_SE": "Finanzielle Anreize: Lebensmittelgutscheine."
 }

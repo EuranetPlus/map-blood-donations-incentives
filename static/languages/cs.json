@@ -5,6 +5,8 @@
   "textSourceDescription": "Zdroj",
   "textSource": "Společné výzkumné středisko Evropské komise",
   "linkDataAccessDescription": "Přístup k datům",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltipExtraInfoLabel": "Klikněte zde",
   "extraInfo_BG": "Peněžní pobídky: kompenzace přímých nákladů dárce; platba v hotovosti.",
   "extraInfo_HR": "Finanční pobídky: dotovaná veřejná doprava; zdravotní pojištění.",
   "extraInfo_CZ": "Finanční pobídky: daňové úlevy; dávky zdravotního pojištění.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Peněžní pobídky: daňové úlevy.",
   "extraInfo_RO": "Finanční pobídky: dotovaná veřejná doprava; potravinové poukázky; kompenzace přímých nákladů dárce.",
   "extraInfo_SK": "Finanční pobídky: poukázky na jídlo.",
-  "extraInfo_SE": "Finanční pobídky: poukázky na jídlo.",
-  "legend1": "Nejsou k dispozici žádná data",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "extraInfo_SE": "Finanční pobídky: poukázky na jídlo."
 }

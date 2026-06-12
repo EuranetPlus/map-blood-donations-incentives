@@ -5,6 +5,8 @@
   "textSourceDescription": "Avots",
   "textSource": "Eiropas Komisijas Kopīgais pētniecības centrs",
   "linkDataAccessDescription": "Piekļūstiet datiem",
+  "legend1": "Dati nav pieejami",
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
   "extraInfo_BG": "Monetārie stimuli: kompensācija par donora tiešajām izmaksām; skaidras naudas maksājums.",
   "extraInfo_HR": "Monetārie stimuli: subsidēts sabiedriskais transports; veselības apdrošināšanas pabalsti.",
   "extraInfo_CZ": "Monetārie stimuli: nodokļu atvieglojumi; veselības apdrošināšanas pabalsti.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Monetārie stimuli: nodokļu atvieglojumi.",
   "extraInfo_RO": "Monetārie stimuli: subsidēts sabiedriskais transports; pārtikas kuponi; kompensācija par donoru tiešajām izmaksām.",
   "extraInfo_SK": "Monetārie stimuli: pārtikas kuponi.",
-  "extraInfo_SE": "Monetārie stimuli: pārtikas kuponi.",
-  "legend1": "Dati nav pieejami",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "extraInfo_SE": "Monetārie stimuli: pārtikas kuponi."
 }

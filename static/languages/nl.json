@@ -1,10 +1,12 @@
 {
   "title": "Welke EU-landen bieden financiële stimulansen aan bloeddonoren?",
-  "subtitle": "De Europese lidstaten bieden diverse financiële voordelen om mensen te stimuleren bloed en bloedcomponenten te doneren.",
+  "subtitle": "De Europese lidstaten bieden diverse financiële voordelen om mensen te motiveren bloed en bloedcomponenten te doneren.",
   "textNoteDescription": "Opmerking",
   "textSourceDescription": "Bron",
   "textSource": "Gezamenlijk onderzoekscentrum van de Europese Commissie",
   "linkDataAccessDescription": "Toegang tot de gegevens",
+  "legend1": "Geen gegevens beschikbaar",
+  "tooltipExtraInfoLabel": "Klik hier",
   "extraInfo_BG": "Financiële prikkels: vergoeding van de directe kosten van de donor; contante betaling.",
   "extraInfo_HR": "Financiële stimulansen: gesubsidieerd openbaar vervoer; ziektekostenverzekering.",
   "extraInfo_CZ": "Financiële stimulansen: belastingvermindering; ziektekostenverzekering.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Financiële stimulansen: belastingverlaging.",
   "extraInfo_RO": "Financiële stimulansen: gesubsidieerd openbaar vervoer; voedselbonnen; vergoeding van de directe kosten van de donor.",
   "extraInfo_SK": "Financiële prikkels: voedselbonnen.",
-  "extraInfo_SE": "Financiële prikkels: voedselbonnen.",
-  "legend1": "Geen gegevens beschikbaar",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "extraInfo_SE": "Financiële prikkels: voedselbonnen."
 }

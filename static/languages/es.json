@@ -5,6 +5,8 @@
   "textSourceDescription": "Fuente",
   "textSource": "Centro Común de Investigación de la Comisión Europea",
   "linkDataAccessDescription": "Acceder a los datos",
+  "legend1": "No hay datos disponibles",
+  "tooltipExtraInfoLabel": "haga clic aquí",
   "extraInfo_BG": "Incentivos monetarios: compensación por los costos directos del donante; pago en efectivo.",
   "extraInfo_HR": "Incentivos monetarios: transporte público subvencionado; prestaciones de seguro médico.",
   "extraInfo_CZ": "Incentivos monetarios: desgravaciones fiscales; prestaciones de seguro médico.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Incentivos monetarios: desgravaciones fiscales.",
   "extraInfo_RO": "Incentivos monetarios: transporte público subvencionado; vales de comida; compensación por los costes directos del donante.",
   "extraInfo_SK": "Incentivos monetarios: vales de comida.",
-  "extraInfo_SE": "Incentivos monetarios: vales de comida.",
-  "legend1": "No hay datos disponibles",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "extraInfo_SE": "Incentivos monetarios: vales de comida."
 }

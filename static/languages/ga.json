@@ -5,6 +5,8 @@
   "textSourceDescription": "Foinse",
   "textSource": "Ionad Comhpháirteach Taighde an Choimisiúin Eorpaigh",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "legend1": "Níl aon sonraí ar fáil",
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
   "extraInfo_BG": "Dreasachtaí airgid: cúiteamh as costais dhíreacha deontóra; íocaíocht airgid thirim.",
   "extraInfo_HR": "Dreasachtaí airgeadais: iompar poiblí fóirdheonaithe; sochair árachais sláinte.",
   "extraInfo_CZ": "Dreasachtaí airgeadais: faoiseamh cánach; sochair árachais sláinte.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Dreasachtaí airgeadais: faoiseamh cánach.",
   "extraInfo_RO": "Dreasachtaí airgeadais: iompar poiblí fóirdheonaithe; dearbháin bia; cúiteamh as costais dhíreacha deontóirí.",
   "extraInfo_SK": "Dreasachtaí airgid: dearbháin bia.",
-  "extraInfo_SE": "Dreasachtaí airgid: dearbháin bia.",
-  "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "extraInfo_SE": "Dreasachtaí airgid: dearbháin bia."
 }

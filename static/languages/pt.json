@@ -5,6 +5,8 @@
   "textSourceDescription": "Fonte",
   "textSource": "Centro Comum de Investigação da Comissão Europeia",
   "linkDataAccessDescription": "Acesse os dados",
+  "legend1": "Não há dados disponíveis.",
+  "tooltipExtraInfoLabel": "Clique aqui",
   "extraInfo_BG": "Incentivos monetários: compensação pelos custos diretos do doador; pagamento em dinheiro.",
   "extraInfo_HR": "Incentivos monetários: transporte público subsidiado; benefícios de seguro de saúde.",
   "extraInfo_CZ": "Incentivos monetários: alívio fiscal; benefícios de seguro de saúde.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Incentivos monetários: alívio fiscal.",
   "extraInfo_RO": "Incentivos monetários: transporte público subsidiado; vales-refeição; compensação pelos custos diretos do doador.",
   "extraInfo_SK": "Incentivos monetários: vales-refeição.",
-  "extraInfo_SE": "Incentivos monetários: vales-refeição.",
-  "legend1": "Não há dados disponíveis.",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "extraInfo_SE": "Incentivos monetários: vales-refeição."
 }

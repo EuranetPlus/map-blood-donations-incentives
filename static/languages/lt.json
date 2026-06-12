@@ -5,6 +5,8 @@
   "textSourceDescription": "Šaltinis",
   "textSource": "Europos Komisijos Jungtinis tyrimų centras",
   "linkDataAccessDescription": "Prieiga prie duomenų",
+  "legend1": "Nėra duomenų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
   "extraInfo_BG": "Piniginės paskatos: donoro tiesioginių išlaidų kompensavimas; grynieji pinigai.",
   "extraInfo_HR": "Piniginės paskatos: subsidijuojamas viešasis transportas; sveikatos draudimo išmokos.",
   "extraInfo_CZ": "Piniginės paskatos: mokesčių lengvatos; sveikatos draudimo išmokos.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Piniginės paskatos: mokesčių lengvatos.",
   "extraInfo_RO": "Piniginės paskatos: subsidijuojamas viešasis transportas; maisto kuponai; donorų tiesioginių išlaidų kompensavimas.",
   "extraInfo_SK": "Piniginės paskatos: maisto kuponai.",
-  "extraInfo_SE": "Piniginės paskatos: maisto kuponai.",
-  "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "extraInfo_SE": "Piniginės paskatos: maisto kuponai."
 }

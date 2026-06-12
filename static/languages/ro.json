@@ -5,6 +5,8 @@
   "textSourceDescription": "Sursă",
   "textSource": "Centrul Comun de Cercetare al Comisiei Europene",
   "linkDataAccessDescription": "Accesați datele",
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
   "extraInfo_BG": "Stimulente monetare: compensații pentru costurile directe ale donatorului; plată în numerar.",
   "extraInfo_HR": "Stimulente monetare: transport public subvenționat; beneficii de asigurare medicală.",
   "extraInfo_CZ": "Stimulente monetare: scutiri de impozite; beneficii de asigurare medicală.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Stimulente monetare: scutiri de impozite.",
   "extraInfo_RO": "Stimulente monetare: transport public subvenționat; vouchere alimentare; compensații pentru costurile directe ale donatorului.",
   "extraInfo_SK": "Stimulente monetare: vouchere alimentare.",
-  "extraInfo_SE": "Stimulente monetare: vouchere alimentare.",
-  "legend1": "Nu sunt disponibile date",
-  "tooltipExtraInfoLabel": "Click aici"
+  "extraInfo_SE": "Stimulente monetare: vouchere alimentare."
 }

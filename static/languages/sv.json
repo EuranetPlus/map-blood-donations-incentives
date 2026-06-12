@@ -5,6 +5,8 @@
   "textSourceDescription": "Källa",
   "textSource": "Europeiska kommissionens gemensamma forskningscenter",
   "linkDataAccessDescription": "Åtkomst till data",
+  "legend1": "Inga data tillgängliga",
+  "tooltipExtraInfoLabel": "Klicka här",
   "extraInfo_BG": "Monetära incitament: kompensation för givarens direkta kostnader; kontantbetalning.",
   "extraInfo_HR": "Ekonomiska incitament: subventionerad kollektivtrafik; sjukförsäkringsförmåner.",
   "extraInfo_CZ": "Monetära incitament: skattelättnader; sjukförsäkringsförmåner.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Monetära incitament: skattelättnader.",
   "extraInfo_RO": "Ekonomiska incitament: subventionerad kollektivtrafik; matkuponger; kompensation för givares direkta kostnader.",
   "extraInfo_SK": "Ekonomiska incitament: matkuponger.",
-  "extraInfo_SE": "Ekonomiska incitament: matkuponger.",
-  "legend1": "Inga data tillgängliga",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "extraInfo_SE": "Ekonomiska incitament: matkuponger."
 }

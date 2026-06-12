@@ -5,6 +5,8 @@
   "textSourceDescription": "Kilde",
   "textSource": "Europa-Kommissionens Fælles Forskningscenter",
   "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "tooltipExtraInfoLabel": "Klik her",
   "extraInfo_BG": "Monetære incitamenter: kompensation for donorens direkte omkostninger; kontant betaling.",
   "extraInfo_HR": "Økonomiske incitamenter: subsidieret offentlig transport; sundhedsforsikringsydelser.",
   "extraInfo_CZ": "Monetære incitamenter: skattelettelser; sundhedsforsikringsydelser.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Monetære incitamenter: skattelettelser.",
   "extraInfo_RO": "Monetære incitamenter: subsidieret offentlig transport; madkuponer; kompensation for donorers direkte omkostninger.",
   "extraInfo_SK": "Økonomiske incitamenter: madkuponer.",
-  "extraInfo_SE": "Økonomiske incitamenter: madkuponer.",
-  "legend1": "Ingen data tilgængelige",
-  "tooltipExtraInfoLabel": "Klik her"
+  "extraInfo_SE": "Økonomiske incitamenter: madkuponer."
 }

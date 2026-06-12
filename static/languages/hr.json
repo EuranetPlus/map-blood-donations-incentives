@@ -5,6 +5,8 @@
   "textSourceDescription": "Izvor",
   "textSource": "Zajednički istraživački centar Europske komisije",
   "linkDataAccessDescription": "Pristup podacima",
+  "legend1": "Nema dostupnih podataka",
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
   "extraInfo_BG": "Novčani poticaji: naknada za izravne troškove donatora; isplata u gotovini.",
   "extraInfo_HR": "Novčani poticaji: subvencionirani javni prijevoz; zdravstveno osiguranje.",
   "extraInfo_CZ": "Novčani poticaji: porezne olakšice; zdravstveno osiguranje.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Novčani poticaji: porezne olakšice.",
   "extraInfo_RO": "Novčani poticaji: subvencionirani javni prijevoz; bonovi za hranu; naknada za izravne troškove donatora.",
   "extraInfo_SK": "Novčani poticaji: bonovi za hranu.",
-  "extraInfo_SE": "Novčani poticaji: bonovi za hranu.",
-  "legend1": "Nema dostupnih podataka",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "extraInfo_SE": "Novčani poticaji: bonovi za hranu."
 }

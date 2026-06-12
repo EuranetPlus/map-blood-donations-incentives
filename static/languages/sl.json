@@ -5,6 +5,8 @@
   "textSourceDescription": "Vir",
   "textSource": "Skupni raziskovalni center Evropske komisije",
   "linkDataAccessDescription": "Dostop do podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
   "extraInfo_BG": "Denarne spodbude: nadomestilo za neposredne stroške donatorja; gotovinsko plačilo.",
   "extraInfo_HR": "Denarne spodbude: subvencioniran javni prevoz; ugodnosti zdravstvenega zavarovanja.",
   "extraInfo_CZ": "Denarne spodbude: davčne olajšave; ugodnosti zdravstvenega zavarovanja.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Denarne spodbude: davčne olajšave.",
   "extraInfo_RO": "Denarne spodbude: subvencioniran javni prevoz; boni za hrano; nadomestilo za neposredne stroške donatorja.",
   "extraInfo_SK": "Denarne spodbude: boni za hrano.",
-  "extraInfo_SE": "Denarne spodbude: boni za hrano.",
-  "legend1": "Ni na voljo podatkov",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "extraInfo_SE": "Denarne spodbude: boni za hrano."
 }

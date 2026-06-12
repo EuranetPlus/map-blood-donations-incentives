@@ -5,6 +5,8 @@
   "textSourceDescription": "Source",
   "textSource": "Centre commun de recherche de la Commission européenne",
   "linkDataAccessDescription": "Accéder aux données",
+  "legend1": "Aucune donnée disponible",
+  "tooltipExtraInfoLabel": "Cliquez ici",
   "extraInfo_BG": "Incitations financières : compensation des coûts directs du donateur ; paiement en espèces.",
   "extraInfo_HR": "Incitations financières : transports publics subventionnés ; prestations d’assurance maladie.",
   "extraInfo_CZ": "Incitations financières : allégements fiscaux ; prestations d’assurance maladie.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Incitations financières : allégement fiscal.",
   "extraInfo_RO": "Incitations financières : transports publics subventionnés ; bons alimentaires ; compensation des coûts directs des donateurs.",
   "extraInfo_SK": "Incitations financières : bons alimentaires.",
-  "extraInfo_SE": "Incitations financières : bons alimentaires.",
-  "legend1": "Aucune donnée disponible",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "extraInfo_SE": "Incitations financières : bons alimentaires."
 }

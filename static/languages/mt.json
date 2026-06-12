@@ -5,6 +5,8 @@
   "textSourceDescription": "Sors",
   "textSource": "Ċentru Konġunt tar-Riċerka tal-Kummissjoni Ewropea",
   "linkDataAccessDescription": "Aċċessa d-dejta",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
   "extraInfo_BG": "Inċentivi monetarji: kumpens għall-ispejjeż diretti tad-donatur; ħlas fi flus kontanti.",
   "extraInfo_HR": "Inċentivi monetarji: trasport pubbliku sussidjat; benefiċċji tal-assigurazzjoni tas-saħħa.",
   "extraInfo_CZ": "Inċentivi monetarji: tnaqqis fit-taxxa; benefiċċji tal-assigurazzjoni tas-saħħa.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Inċentivi monetarji: eżenzjoni mit-taxxa.",
   "extraInfo_RO": "Inċentivi monetarji: trasport pubbliku sussidjat; vawċers tal-ikel; kumpens għall-ispejjeż diretti tad-donatur.",
   "extraInfo_SK": "Inċentivi monetarji: vawċers tal-ikel.",
-  "extraInfo_SE": "Inċentivi monetarji: vawċers tal-ikel.",
-  "legend1": "L-ebda dejta disponibbli",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "extraInfo_SE": "Inċentivi monetarji: vawċers tal-ikel."
 }

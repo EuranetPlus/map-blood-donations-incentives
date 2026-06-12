@@ -5,6 +5,8 @@
   "textSourceDescription": "Allikas",
   "textSource": "Euroopa Komisjoni Teadusuuringute Ühiskeskus",
   "linkDataAccessDescription": "Juurdepääs andmetele",
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
   "extraInfo_BG": "Rahalised stiimulid: doonori otseste kulude hüvitamine; sularahamakse.",
   "extraInfo_HR": "Rahalised stiimulid: subsideeritud ühistransport; tervisekindlustushüvitised.",
   "extraInfo_CZ": "Rahalised stiimulid: maksusoodustused; tervisekindlustushüvitised.",
@@ -19,7 +21,5 @@
   "extraInfo_PT": "Rahalised stiimulid: maksusoodustused.",
   "extraInfo_RO": "Rahalised stiimulid: subsideeritud ühistransport; toidutalongid; doonorite otseste kulude hüvitamine.",
   "extraInfo_SK": "Rahalised stiimulid: toidutalongid.",
-  "extraInfo_SE": "Rahalised stiimulid: toidutalongid.",
-  "legend1": "Andmed pole saadaval",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "extraInfo_SE": "Rahalised stiimulid: toidutalongid."
 }
